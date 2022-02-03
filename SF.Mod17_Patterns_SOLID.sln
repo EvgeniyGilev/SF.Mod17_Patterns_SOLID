@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF.Mod17_Patterns_SOLID", "SF.Mod17_Patterns_SOLID\SF.Mod17_Patterns_SOLID.csproj", "{F12ECB35-8F60-48EB-9E35-FB6A25D4B02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12ECB35-8F60-48EB-9E35-FB6A25D4B02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12ECB35-8F60-48EB-9E35-FB6A25D4B02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12ECB35-8F60-48EB-9E35-FB6A25D4B02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12ECB35-8F60-48EB-9E35-FB6A25D4B02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD854119-8322-466E-BFED-9018D2B4BB6C}
+	EndGlobalSection
+EndGlobal
